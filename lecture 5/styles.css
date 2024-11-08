@@ -1,0 +1,146 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f04e65; /* similar red background */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+.gameimage{
+    height: 4px;
+}
+
+.card{
+    position: relative;
+    left: 97px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #685558;
+    color: white;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.container {
+    text-align: center;
+    position: relative;
+
+    max-width: 400px;
+    background-color: #f04e65;
+    border-bottom-left-radius: 50px;
+    padding: 20px;
+    padding-right: 10rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.container h1 {
+    font-size: 2em;
+    margin: 0;
+}
+.container p {
+    font-size: 1em;
+    color: #ffe0e0;
+}
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.item1 {
+    text-align: center;
+}
+.item1 p {
+    font-size: 0.9em;
+    color: #ffe0e0;
+}
+.item1 h1 {
+    font-size: 1.5em;
+    margin: 5px 0;
+}
+.gameimage img {
+    position: relative;
+    top: 2.5rem;
+    right: 182px;
+    
+    width: 300px;
+    height: 600px;
+    height: auto;
+   
+    
+   
+}
+.card{
+    display: flex;
+    
+}
+#border{
+    position: relative;
+    
+    border-right: solid rgb(23, 15, 15);
+
+}
+.card2{
+    width: 348px;
+    border-right: solid rgb(23, 15, 15);
+    border-left: solid #f04e65;
+    border-bottom: solid #f04e65;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    
+
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    position: relative;
+    right: 42px;
+    bottom: 44px;
+    
+
+}
+.card2 img{
+    width: 34px;
+    padding: 4px;
+    position: relative;
+    left: 12px;
+    top: 12px;
+    border-radius: 100%;
+}
+.card3{
+    display: flex;
+    padding-left: px;
+    margin: 0px;
+    position: relative;
+    top: 17px;
+    box-shadow: rgba(0, 0, 0, 0) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+.card4{
+    display: flex;
+    padding-left: px;
+    margin: 0px;
+    position: relative;
+
+    bottom: ;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.card3 h1,p{
+    position: relative;
+    left: 33px;
+}
+.card4 h1{
+    top: 22px;
+}
+.card3 h1{
+    top: 22px;
+}
+.card4 h1,p{
+    position: relative;
+    left: 33px;
+}
+
